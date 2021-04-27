@@ -6,6 +6,7 @@ Running Sequence of the Jupyter Notebooks (Run the Jupyter Notebooks in followin
 	3. x19211538_Vani_DAP.ipynb
 	4. Group 17.ipynb
 
+PLEASE DOWNLOAD ALL THE FILES AS A FEW VISUALIZATIONS ARE DONE IN PLOTLY AND MIGHT NOT RENDER WELL IN GITHUB
 
 We have also converted data fetched from the API into a csv format for your reference, just in case you need it (Attached in the Zip File)
 
