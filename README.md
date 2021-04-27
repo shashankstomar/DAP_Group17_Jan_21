@@ -4,9 +4,13 @@ This is a repository for the DAP project of Group 17, Jan 21 (MSc Data Analytics
 This is a readme file for DAP Project of Group 17, Jan 21 (MSc Data Analytics)
 
 Running Sequence of the Jupyter Notebooks (Run the Jupyter Notebooks in following Sequence):
-	1. x19213280_Shashank_Sanjay_Tomar_DAP.ipynb\n
+	
+	1. x19213280_Shashank_Sanjay_Tomar_DAP.ipynb
+	
 	2. DAP_x20135769.ipynb
+	
 	3. x19211538_Vani_DAP.ipynb
+	
 	4. Group 17.ipynb
 
 PLEASE DOWNLOAD ALL THE FILES AS A FEW VISUALIZATIONS ARE DONE IN PLOTLY AND MIGHT NOT RENDER WELL IN GITHUB
